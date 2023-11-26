@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
-- 👨‍💻 All of my projects are available at [https://pprojectmain.gatsbyjs.io/](https://pprojectmain.gatsbyjs.io/)
+- 👨‍💻 All of my projects are available at [[https://andy-devv.netlify.app/](https://andy-devv.netlify.app/)
 
 - 💬 Ask me about **MERN and animations using GSAP**
 
