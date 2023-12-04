@@ -1,6 +1,6 @@
 [![MasterHead](https://www.eskillsweb.com/assets/img/mern-banner.png)]
 <h1 align="center">Hi 👋, I'm Andy Sedzifa</h1>
-<h3 align="center">A creative frontend and full-stack developer from Ghana</h3>
+<h3 align="center">A creative frontend and full-stack developer</h3>
 <img align="right" alt="Coding" width="400"
 src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" />
 
